@@ -1,4 +1,4 @@
-import React from "react";
+import "./wdyr"; // <--- first import
 import ReactDOM from "react-dom";
 import { Router } from "react-router-dom";
 import { createMuiTheme, ThemeProvider } from "@material-ui/core";
